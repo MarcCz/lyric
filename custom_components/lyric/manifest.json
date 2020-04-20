@@ -3,7 +3,7 @@
   "name": "Honeywell Lyric",
   "documentation": "https://github.com/bramkragten/lyric",
   "requirements": [
-    "python-lyric==1.1.4"
+    "python-lyric==1.1.6"
   ],
   "dependencies": [],
   "codeowners": [
